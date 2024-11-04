@@ -1,0 +1,30 @@
+{
+  "name": "node_preparacio_avaluacio",
+  "version": "0.0.1",
+  "description": "Ensayo evaluación NodeJS - Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/classesdeferran/assaig_avaluacio_express_2024.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express"
+  ],
+  "author": "Ferran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/classesdeferran/assaig_avaluacio_express_2024/issues"
+  },
+  "homepage": "https://github.com/classesdeferran/assaig_avaluacio_express_2024#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
